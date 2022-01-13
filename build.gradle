@@ -3,16 +3,19 @@ allprojects {
         repositories {
             jcenter()
             google()
+            maven { url 'https://jitpack.io' }
         }
 
         dependencies {
             classpath "com.android.tools.build:gradle:4.2.2"
+            classpath "com.github.dcendents:android-maven-gradle-plugin:2.0"
         }
     }
 
     repositories {
         jcenter()
         google()
+        maven { url 'https://jitpack.io' }
     }
 }
 
