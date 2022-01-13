@@ -1,2 +1,3 @@
 rootProject.name = "kungod"
-include ':app', ':kungod_github'
+include ':app'
+include ':kungod_github'
