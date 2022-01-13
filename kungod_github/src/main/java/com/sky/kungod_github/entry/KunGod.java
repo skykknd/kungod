@@ -116,7 +116,7 @@ public class KunGod {
      *
      * @param REQUEST_CODE_SCAN startActiviyForResult()的请求码
      */
-    public void scan(int REQUEST_CODE_SCAN) {
+   /* public void scan(int REQUEST_CODE_SCAN) {
         scan.scan(REQUEST_CODE_SCAN);
-    }
+    }*/
 }

@@ -3,19 +3,16 @@ allprojects {
         repositories {
             jcenter()
             google()
-            maven {url 'https://developer.huawei.com/repo/'}
         }
 
         dependencies {
             classpath "com.android.tools.build:gradle:4.2.2"
-            classpath 'com.huawei.agconnect:agcp:1.5.2.300'
         }
     }
 
     repositories {
         jcenter()
         google()
-        maven {url 'https://developer.huawei.com/repo/'}
     }
 }
 

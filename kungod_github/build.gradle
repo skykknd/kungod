@@ -34,8 +34,4 @@ dependencies {
 
     //国密算法
     implementation files('libs\\bcprov-ext-jdk15on-1.58.jar')
-
-    //huawei
-    implementation 'com.huawei.agconnect:agconnect-core:1.5.2.300'
-    implementation 'com.huawei.hms:scan:2.3.0.300'
 }
