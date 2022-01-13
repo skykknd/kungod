@@ -6,6 +6,7 @@ import android.view.KeyEvent;
 import com.sky.kungod_github.engine.Scan;
 import com.sky.kungod_github.engine.Util;
 
+// 对外接口
 public class KunGod {
     /**
      * 坤神工具初始化
