@@ -3,6 +3,7 @@ allprojects {
         repositories {
             jcenter()
             google()
+            mavenCentral()
         }
 
         dependencies {
@@ -13,6 +14,7 @@ allprojects {
     repositories {
         jcenter()
         google()
+        mavenCentral()
     }
 }
 
